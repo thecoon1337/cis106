@@ -12,3 +12,4 @@
 - ![Practice 7](practice7.png)
 - ![Practice 8](practice8.png)
 - ![Practice 9](practice9.png)
+- ![Practice 10](practice10.png)
