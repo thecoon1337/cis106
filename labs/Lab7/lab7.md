@@ -1,0 +1,11 @@
+# Question 1
+- ![Practice 1](p1.png)
+- ![Practice 2](p2.png)
+- ![Practice 3](p3.png)
+- ![Practice 4](p4.png)
+# Question 2
+- ![Question 2.1](q2.1.png)
+- ![Question 2.2](q2.2.png)
+# Question 3
+- ![Question 3.1](q3.1.png)
+- ![Question 3.2](q3.2.png)
