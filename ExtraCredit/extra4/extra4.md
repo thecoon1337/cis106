@@ -1,4 +1,4 @@
-# Extra Credit 4: Managing
+# Extra Credit 4: Managing Directories Practice
 
 ## Practice 2.4
 ![Practice 1](practice_extracredit2.4.png)
