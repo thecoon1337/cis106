@@ -1,4 +1,4 @@
-# Lab 8 - Part 1
+# Lab 8
 
 ## Practice 1
 ![Practice 1.1](lab8_practice1.1.png)
