@@ -1,7 +1,7 @@
 ### How to use Wildcards
 
 - There are 3 Wildcards:
-  `*` Matches any number of characters
+  `*` *Matches any number of characters*
   `?` Matches only one character
   `[set]` Matches a character from a given set
 
