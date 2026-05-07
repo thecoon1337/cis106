@@ -1,14 +1,14 @@
 ## Notes 8
 
 ## `cat` 
-- **Used to display the content of a file.**
+- **Used to display the contents of a file.**
 
 **Formula:** `cat` + `option` + `file(s) to display`
 
 **Example:** `cat` + `~/Documents/sample_files/file.txt`
 
 ## `tac`
-- **Used to display the content of a file in reverse order.**
+- **Used to display the contents of a file in reverse order.**
 
 **Formula:** `tac` + `option` + `file(s) to display`
 

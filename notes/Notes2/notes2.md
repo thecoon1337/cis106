@@ -10,13 +10,13 @@ A kernel is a software component that's responsible for managing low-level featu
 Command-Line Shells, Graphical user Interfaces, Utility and Productivity Programs, and Libraries
 
 ## 4. What is linux and linux distribution?
-Linux is a Unix-like OS popular in academic and business enviroments. Linux distribution is an operating system built around the linux kernel.
+Linux is a Unix-like OS popular in academic and business environments. Linux distribution is an operating system built around the linux kernel.
 
 ## 5. List at least 4 linux characteristics:
 Linux is open source, free of charge, highly customizable and runs on almost any system.
 
 ## 6. What is Debian?
-Debian is an all-volunteer organization dedicated to developing free software and promoting the ideals of the free software community.
+Debian is one of the 2 main Linux distributions. Most distributions are branches of either Debian or Redhat.
 
 ## 7. List and define the different types of licensing agreements
 - Open Source: the software may be distributed for a fee or free. The source code is distributed with the software.

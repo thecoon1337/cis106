@@ -13,7 +13,8 @@ Wildcards are used when selecting existing files.
 
 ### How to use Brace Expansion to create entire directory structures.
 
-- Start with an open brace
+- Using the mkdir command
+- Follow it with an open brace
 - With no spaces, type your string separating entries with a comma
 - Close the Brace
 

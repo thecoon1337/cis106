@@ -77,7 +77,7 @@ An absolute path is the location of a file starting at the root of the file syst
 
 ## What is a relative path? Include an example
 
-A relative path i8s the location of a file starting from the current working directory.
+A relative path is the location of a file starting from the current working directory.
 
 - Example: `Downloads/song.mp3`
 

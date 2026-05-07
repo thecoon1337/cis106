@@ -21,7 +21,7 @@
 
 **Example:** `sed` + `'s/false/true/g'` + `~/Documents/sample_files/Json/joke.json`
 
-## How to use the pipe (|) to redirect the output of a command to another. 
+#### How to use the pipe (|) to redirect the output of a command to another. 
 
 - **Used after a command to redirect it's standard output to the standard input of another. Allows you to chain commands together so the output of one becomes the input of the next.** 
 
@@ -35,7 +35,7 @@
 - Use grep to look for a string in a particular man page
   - `man ls | grep "string"`
 
-## How to save the output of a command to a file with (>). 
+#### How to save the output of a command to a file with (>). 
 
 - **Used after a command to save the standard output of a command to a file.**
 
@@ -49,7 +49,7 @@
 - Save the error to a file and the success to another.
   - `ls -lA downloads/ Pictures > success.txt 2> error.txt`
 
-## How to append the output of a command to a file.
+#### How to append the output of a command to a file.
 
 - **Use `>>` after a command to add to a file instead of overwriting it's content**
 
